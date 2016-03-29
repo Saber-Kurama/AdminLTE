@@ -1,0 +1,6 @@
+node_modules/
+build/
+rev/
+.DS_Store
+src/bower_components/
+.idea
